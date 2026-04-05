@@ -4,7 +4,7 @@
 - Python Developer, Team Lead 
 
 #### GitHub Stats 🚀
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=zadacka&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/zadacka)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=zadacka)](https://github.com/zadacka)
 [Neat! How does that work?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 #### Get in Touch ☎️
